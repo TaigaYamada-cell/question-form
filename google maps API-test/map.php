@@ -6,7 +6,6 @@
     var map;
     var visible = true;
   
-
 function initialize() {
   var latlng = new google.maps.LatLng(37.406872232409405, 138.72840041114438);
   var opts = {

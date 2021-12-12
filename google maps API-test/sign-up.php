@@ -17,5 +17,6 @@
         <input type="password" name="pass">
         <input type="submit" name="submit" value="登録する">
     </form>
+    
 </body>
 </html>
